@@ -14,8 +14,7 @@
     ],
     "minimum-stability": "dev",
     "require": {
-        "php": ">=5.3.3",
-        "symfony/symfony": "2.4.*"
+        "php": ">=5.3.3"
     },
     "suggest": {
         "codeconsortium/ccdn-component-common-bundle": "2.0.*@dev"
